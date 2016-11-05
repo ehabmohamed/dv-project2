@@ -2479,7 +2479,7 @@
     </dashboard>
   </dashboards>
   <windows source-height='37'>
-    <window class='worksheet' maximized='true' name='County Map'>
+    <window class='worksheet' name='County Map'>
       <cards>
         <edge name='left'>
           <strip size='233'>
@@ -2518,7 +2518,7 @@
         <default-map-tool-selection tool='1' />
       </viewpoint>
     </window>
-    <window class='dashboard' name='Story 1'>
+    <window class='dashboard' maximized='true' name='Story 1'>
       <viewpoints />
       <active id='4' />
     </window>
